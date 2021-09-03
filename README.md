@@ -6,5 +6,8 @@ Hello my name is Sam. I'm from Baltimore Maryland and am a freshman. I'm intendi
 ![](skydiving.jpg)
 
 ### Informal Links
-
+-
+-
 ### Projects
+-
+-
