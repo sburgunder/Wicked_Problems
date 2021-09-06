@@ -9,5 +9,5 @@ Hello my name is Sam. I'm from Baltimore Maryland and am a freshman. I'm intendi
 -
 -
 ### Projects
-- [A Person's Path Between Homes]()
+- [A Person's Path Between Homes](https://github.com/sburgunder/Wicked_ProblemsSB/blob/main/RplotChallenge1.jpeg)
 -
